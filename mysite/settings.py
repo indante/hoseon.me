@@ -29,7 +29,6 @@ DEBUG = False
 
 ALLOWED_HOSTS = [
     ".ap-northeast-2.compute.amazonaws.com",
-    "127.0.0.1",
     ".hoseon.me",
     "15.165.85.107",
 ]

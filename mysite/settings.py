@@ -25,12 +25,13 @@ TEMPLATE_DIR = os.path.join(BASE_DIR, 'templates')
 SECRET_KEY = '+3jjpa7x03!0iq!2e$h+ku_wc+cl@n)svza+#18lu@d%_-90r9'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = [
     ".ap-northeast-2.compute.amazonaws.com",
     "127.0.0.1",
-    ".hoseon.me",
+    # ".hoseon.me",
+    "https://hoseon.me/"
     "15.165.85.107"
 ]
 

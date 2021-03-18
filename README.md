@@ -4,3 +4,6 @@
 Django로는 Nginx + uWSGI로 구현했는데 시행착오가 정말 많았지만 그래도 정상적으로 작동 된다.<br>
 
 이 전에는 Node.js로 구현했던 [Diary](https://github.com/indante/secret-Diary) 페이지였다.
+
+## AWS를 이용한 서버는 잠시 중단되었습니다..
+잠시 [GitHub Pages](https://github.com/indante/indante.github.io)로 호스팅 중입니다..
